@@ -1,0 +1,16 @@
+.header-btn{
+    background-color: #fff;
+    padding: 8px 40px;
+    font-weight: 800;
+    color: black;
+  
+    border: 5px solid transparent;
+    border-radius: 20px;
+  
+}
+.tool{
+    padding-bottom: 40px;
+}
+.foot{
+    color: #222222;
+}
